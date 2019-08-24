@@ -1,0 +1,29 @@
+{
+	"featured": [
+		{
+			"key": "f1",
+			"heading": "Unicorns",
+			"status": "3 of 493",
+			"items": [
+				{
+					"key": "1",
+					"title": "ANT Financial",
+					"description": "CHN",
+					"icon": "sap-icon://product"
+				},
+				{
+					"key": "2",
+					"title": "ByteDance",
+					"description": "CHN",
+					"icon": "sap-icon://product"
+				},
+				{
+					"key": "3",
+					"title": "Infor",
+					"description": "USA",
+					"icon": "sap-icon://product"
+				}
+			]
+		}
+	]
+}
